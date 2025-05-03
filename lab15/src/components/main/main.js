@@ -10,5 +10,5 @@ export default function Main() {
             <Article/>
             <Aside/>        
         </div>
-    )
+    );
 }
